@@ -1,0 +1,7 @@
+Code:
+
+:time
+echo Time currently:%date% %time%
+goto time
+
+Free to use in your projects.
